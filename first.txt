@@ -1,5 +1,4 @@
 my first clone
 my second clone
 dev fenzhi
-<<<<<<< HEAD
 i am a child
