@@ -1,4 +1,5 @@
 my first clone
 my second clone
 dev fenzhi
-i am a girl
+<<<<<<< HEAD
+i am a child
